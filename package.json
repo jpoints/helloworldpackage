@@ -1,0 +1,15 @@
+{
+  "name": "@jpoints/helloworldpackage",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-jpoints:jpoints/helloworldpackage.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
